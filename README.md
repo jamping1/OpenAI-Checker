@@ -2,9 +2,9 @@
 OpenAI-Checker Проверка  OpenAI ключей 2025
 # OpenAI-Checker
 
-[Русский](https://github.com/endercatone/OpenAI-Checker)
 
-[中文](https://github.com/endercatone/OpenAI-Checker/blob/main/README_CN.md)
+
+![alt text](https://www.guidingtech.com/wp-content/uploads/How-to-Get-OpenAI-API-Key.jpg)
 
 ## Введение
 OpenAI-Checker - это скрипт на Python, который проверяет выставление счетов и использование ключа API OpenAI и определяет, может ли он получить доступ к модели GPT-4.
